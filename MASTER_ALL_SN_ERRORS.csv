@@ -1,0 +1,35 @@
+mechanism,band,environment,condition,bandwidth_mhz,test,test_number,status,test_dir,error_type,error_message,traceback,configuration_name,operating_mode,global_results_dir
+iWLAN,5GHz,CamAne,SN,20,4,4,FAIL,D:\iWLAN_5GHz_CamAne_SN_BW20MHz\Prueba_Siemens2\Test 4,RuntimeError,"TShark failed with exit code 14:
+tshark: The file ""D:\iWLAN_5GHz_CamAne_SN_BW20MHz\Prueba_Siemens2\Test 4\pcap\rep_1.pcap"" appears to be damaged or corrupt.
+(pcap: File has 805457923-byte packet, bigger than maximum of 262144)
+","Traceback (most recent call last):
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_folder_batch_v4.py"", line 613, in main
+    index_row, data = process_one_test(
+                      ~~~~~~~~~~~~~~~~^
+        test_dir=test_dir,
+        ^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        reuse_existing=args.reuse_existing,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_folder_batch_v4.py"", line 448, in process_one_test
+    engine.analyze(
+    ~~~~~~~~~~~~~~^
+        test_dir=test_dir,
+        ^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        sta_ips=sta_ips,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_test_v4.py"", line 591, in analyze
+    for row in tshark_stream(tshark, pcap):
+               ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_test_v4.py"", line 543, in tshark_stream
+    raise RuntimeError(f""TShark failed with exit code {code}:\n{stderr}"")
+RuntimeError: TShark failed with exit code 14:
+tshark: The file ""D:\iWLAN_5GHz_CamAne_SN_BW20MHz\Prueba_Siemens2\Test 4\pcap\rep_1.pcap"" appears to be damaged or corrupt.
+(pcap: File has 805457923-byte packet, bigger than maximum of 262144)
+
+",iWLAN_5GHz_CamAne_SN_BW20MHz,iPCF2_OFF_iWLAN,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_CamAne_SN_BW20MHz

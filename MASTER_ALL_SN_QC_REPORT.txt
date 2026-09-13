@@ -1,0 +1,39 @@
+MASTER SN QC REPORT - AFTER RECOVERY PATCH
+==========================================
+
+Configurations PASS: 15
+Configurations FAIL: 1
+Recovered configuration: iWLAN_5GHz_Lab_SN_BW40MHz
+Recovered Test: 2
+Recovery status: USABLE_PARTIAL_CAPTURE
+QC note: PARTIAL_CAPTURE_TRUNCATED_AFTER_EXPERIMENT_END
+No previously analyzed PCAP was re-read during this integration.
+
+Merged row counts:
+  MASTER_ALL_SN.csv: 83
+  MASTER_ALL_SN_ERRORS.csv: 1
+  MASTER_ALL_SN_ICMP_PROCESSES.csv: 1712
+  MASTER_ALL_SN_LOAD_CURVE.csv: 83
+  MASTER_ALL_SN_LOG_VALIDATION.csv: 249
+  MASTER_ALL_SN_PHASE_WINDOWS.csv: 332
+  MASTER_ALL_SN_RTT_VARIATION.csv: 1708
+  MASTER_ALL_SN_TESTS.csv: 83
+  MASTER_ALL_SN_THROUGHPUT.csv: 2982
+
+Configuration status:
+  iPCF2_24GHz_CamAne_SN_BW20MHz: PASS (n_tests=4)
+  iPCF2_24GHz_CamAne_SN_BW40MHz: PASS (n_tests=5)
+  iPCF2_5GHz_CamAne_SN_BW20MHz: PASS (n_tests=10)
+  iPCF2_5GHz_CamAne_SN_BW40MHz: PASS (n_tests=8)
+  iPCF2_5GHz_CamAne_SN_BW80MHz: PASS (n_tests=8)
+  iPCF2_5GHz_Lab_SN_BW20MHz: PASS (n_tests=3)
+  iPCF2_5GHz_Lab_SN_BW40MHz: PASS (n_tests=4)
+  iPCF2_5GHz_Lab_SN_BW80MHz: PASS (n_tests=2)
+  iWLAN_24GHz_CamAne_SN_BW20MHz: PASS (n_tests=6)
+  iWLAN_24GHz_CamAne_SN_BW40MHz: PASS (n_tests=6)
+  iWLAN_5GHz_CamAne_SN_BW20MHz: PASS (n_tests=9)
+  iWLAN_5GHz_CamAne_SN_BW40MHz: PASS (n_tests=9)
+  iWLAN_5GHz_CamAne_SN_BW80MHz: PASS (n_tests=6)
+  iWLAN_5GHz_Lab_SN_BW20MHz: PASS (n_tests=2)
+  iWLAN_5GHz_Lab_SN_BW40MHz: PASS (n_tests=1)
+  iWLAN_5GHz_Lab_SN_BW80MHz: FAIL (n_tests=0)

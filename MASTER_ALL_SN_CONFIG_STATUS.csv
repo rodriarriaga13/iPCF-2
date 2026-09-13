@@ -1,0 +1,33 @@
+﻿configuration_name,mechanism,operating_mode,band,environment,condition,bandwidth_mhz,status,processing_mode,source_config_dir,test_container,results_dir,n_tests,error_type,error_message,traceback
+iPCF2_24GHz_CamAne_SN_BW20MHz,iPCF2,iPCF2_ON,24GHz,CamAne,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_24GHz_CamAne_SN_BW20MHz,D:\iPCF2_24GHz_CamAne_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_24GHz_CamAne_SN_BW20MHz,4,,,
+iPCF2_24GHz_CamAne_SN_BW40MHz,iPCF2,iPCF2_ON,24GHz,CamAne,SN,40,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_24GHz_CamAne_SN_BW40MHz,D:\iPCF2_24GHz_CamAne_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_24GHz_CamAne_SN_BW40MHz,5,,,
+iPCF2_5GHz_CamAne_SN_BW20MHz,iPCF2,iPCF2_ON,5GHz,CamAne,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_CamAne_SN_BW20MHz,D:\iPCF2_5GHz_CamAne_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_CamAne_SN_BW20MHz,10,,,
+iPCF2_5GHz_CamAne_SN_BW40MHz,iPCF2,iPCF2_ON,5GHz,CamAne,SN,40,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_CamAne_SN_BW40MHz,D:\iPCF2_5GHz_CamAne_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_CamAne_SN_BW40MHz,8,,,
+iPCF2_5GHz_CamAne_SN_BW80MHz,iPCF2,iPCF2_ON,5GHz,CamAne,SN,80,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_CamAne_SN_BW80MHz,D:\iPCF2_5GHz_CamAne_SN_BW80MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_CamAne_SN_BW80MHz,8,,,
+iPCF2_5GHz_Lab_SN_BW20MHz,iPCF2,iPCF2_ON,5GHz,Lab,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_Lab_SN_BW20MHz,D:\iPCF2_5GHz_Lab_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_Lab_SN_BW20MHz,3,,,
+iPCF2_5GHz_Lab_SN_BW40MHz,iPCF2,iPCF2_ON,5GHz,Lab,SN,40,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_Lab_SN_BW40MHz,D:\iPCF2_5GHz_Lab_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_Lab_SN_BW40MHz,4,,,
+iPCF2_5GHz_Lab_SN_BW80MHz,iPCF2,iPCF2_ON,5GHz,Lab,SN,80,PASS,PROCESSED_FROM_PCAP,D:\iPCF2_5GHz_Lab_SN_BW80MHz,D:\iPCF2_5GHz_Lab_SN_BW80MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iPCF2_5GHz_Lab_SN_BW80MHz,2,,,
+iWLAN_24GHz_CamAne_SN_BW20MHz,iWLAN,iPCF2_OFF_iWLAN,24GHz,CamAne,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_24GHz_CamAne_SN_BW20MHz,D:\iWLAN_24GHz_CamAne_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_24GHz_CamAne_SN_BW20MHz,6,,,
+iWLAN_24GHz_CamAne_SN_BW40MHz,iWLAN,iPCF2_OFF_iWLAN,24GHz,CamAne,SN,40,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_24GHz_CamAne_SN_BW40MHz,D:\iWLAN_24GHz_CamAne_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_24GHz_CamAne_SN_BW40MHz,6,,,
+iWLAN_5GHz_CamAne_SN_BW20MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,CamAne,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_5GHz_CamAne_SN_BW20MHz,D:\iWLAN_5GHz_CamAne_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_CamAne_SN_BW20MHz,9,,,
+iWLAN_5GHz_CamAne_SN_BW40MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,CamAne,SN,40,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_5GHz_CamAne_SN_BW40MHz,D:\iWLAN_5GHz_CamAne_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_CamAne_SN_BW40MHz,9,,,
+iWLAN_5GHz_CamAne_SN_BW80MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,CamAne,SN,80,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_5GHz_CamAne_SN_BW80MHz,D:\iWLAN_5GHz_CamAne_SN_BW80MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_CamAne_SN_BW80MHz,6,,,
+iWLAN_5GHz_Lab_SN_BW20MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,Lab,SN,20,PASS,PROCESSED_FROM_PCAP,D:\iWLAN_5GHz_Lab_SN_BW20MHz,D:\iWLAN_5GHz_Lab_SN_BW20MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_Lab_SN_BW20MHz,2,,,
+iWLAN_5GHz_Lab_SN_BW40MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,Lab,SN,40,PASS,RECOVERED_PARTIAL_CAPTURE_NO_PCAP_REREAD,D:\iWLAN_5GHz_Lab_SN_BW40MHz,D:\iWLAN_5GHz_Lab_SN_BW40MHz\Prueba_Siemens2,C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_Lab_SN_BW40MHz,1,,,"Traceback (most recent call last):
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_all_sn_v3.py"", line 502, in main
+    raise RuntimeError(
+        f""Configuration batch finished but required PASS master outputs are incomplete: {results_dir}""
+    )
+RuntimeError: Configuration batch finished but required PASS master outputs are incomplete: C:\Users\rarriaga\Documents\ipcf_2 analisis\ALL_SN_RESULTS_FINAL\per_configuration\iWLAN_5GHz_Lab_SN_BW40MHz
+"
+iWLAN_5GHz_Lab_SN_BW80MHz,iWLAN,iPCF2_OFF_iWLAN,5GHz,Lab,SN,80,FAIL,,D:\iWLAN_5GHz_Lab_SN_BW80MHz,,,0,FileNotFoundError,"Could not find an experimental Test container with PCAP files below D:\iWLAN_5GHz_Lab_SN_BW80MHz within depth 3. Candidates inspected:
+  D:\iWLAN_5GHz_Lab_SN_BW80MHz\Prueba_Siemens2 -> numbered=1, with_pcap=0; Test 2: NO_PCAP","Traceback (most recent call last):
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_all_sn_v3.py"", line 477, in main
+    test_root = find_test_container(config_dir, max_depth=args.max_search_depth)
+  File ""C:\Users\rarriaga\Documents\ipcf_2 analisis\analyze_all_sn_v3.py"", line 258, in find_test_container
+    raise FileNotFoundError(
+    ...<2 lines>...
+    )
+FileNotFoundError: Could not find an experimental Test container with PCAP files below D:\iWLAN_5GHz_Lab_SN_BW80MHz within depth 3. Candidates inspected:
+  D:\iWLAN_5GHz_Lab_SN_BW80MHz\Prueba_Siemens2 -> numbered=1, with_pcap=0; Test 2: NO_PCAP
+"
